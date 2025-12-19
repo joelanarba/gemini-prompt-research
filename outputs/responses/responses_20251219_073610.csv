@@ -1,0 +1,2 @@
+timestamp,query,prompt_type,trial,response,success,error,model,tokens_used
+2025-12-19T07:36:10.338678,Write a haiku about artificial intelligence,baseline,1,,False,"Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '16', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1766129820000'}, 'provider_name': None}}, 'user_id': 'user_33m2hYXATxdVQDGdnhOQtIgtcQQ'}",google/gemini-2.0-flash-exp:free,

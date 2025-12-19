@@ -1,0 +1,2 @@
+timestamp,query,prompt_type,trial,response,success,error,model,tokens_used
+2025-12-19T07:28:32.736117,Explain quantum computing to a 5-year-old,baseline,1,,False,"Error code: 404 - {'error': {'message': 'No endpoints found for google/gemini-flash-1.5.', 'code': 404}, 'user_id': 'user_33m2hYXATxdVQDGdnhOQtIgtcQQ'}",google/gemini-flash-1.5,

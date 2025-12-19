@@ -1,0 +1,2 @@
+timestamp,query,prompt_type,trial,response,success,error,model,tokens_used
+2025-12-19T07:29:13.673039,Refactor this Python function to be more efficient: def fib(n): return n if n <= 1 else fib(n-1) + fib(n-2),structured,3,,False,"Error code: 400 - {'error': {'message': 'google/gemini-1.5-flash is not a valid model ID', 'code': 400}, 'user_id': 'user_33m2hYXATxdVQDGdnhOQtIgtcQQ'}",google/gemini-1.5-flash,

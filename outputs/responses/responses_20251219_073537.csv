@@ -1,0 +1,9 @@
+timestamp,query,prompt_type,trial,response,success,error,model,tokens_used
+2025-12-19T07:35:37.382235,Explain quantum computing to a 5-year-old,structured,1,"Imagine you have a regular light switch. It can be either ON or OFF, right?
+
+Now, imagine a special light switch that can be ON, OFF, or BOTH at the SAME TIME! That's kind of like what a quantum computer uses. Instead of regular bits that are either 0 or 1, quantum computers use ""quantum bits,"" called **qubits**.
+
+These qubits can be 0, 1, or a mix of both at the same time. This lets quantum computers try many possibilities all at once, making them super fast for some problems.
+
+It's like having many regular computers working together to solve a puzzle!
+",True,,google/gemini-2.0-flash-exp:free,230

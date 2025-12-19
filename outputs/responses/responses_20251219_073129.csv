@@ -1,0 +1,2 @@
+timestamp,query,prompt_type,trial,response,success,error,model,tokens_used
+2025-12-19T07:31:29.504490,Refactor this Python function to be more efficient: def fib(n): return n if n <= 1 else fib(n-1) + fib(n-2),structured,5,,False,"Error code: 404 - {'error': {'message': 'No endpoints found for google/gemini-pro-1.5.', 'code': 404}, 'user_id': 'user_33m2hYXATxdVQDGdnhOQtIgtcQQ'}",google/gemini-pro-1.5,
