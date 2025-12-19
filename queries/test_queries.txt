@@ -1,0 +1,5 @@
+Refactor this Python function to be more efficient: def fib(n): return n if n <= 1 else fib(n-1) + fib(n-2)
+Explain quantum computing to a 5-year-old
+Write a haiku about artificial intelligence
+Debug this SQL query: SELECT * FROM users WHERE created_at > '2023-01-01' GROUP BY id
+Translate "Hello, how are you?" into French, Spanish, and Japanese
